@@ -1,0 +1,14 @@
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\bin\Debug\net9.0\EstacioButaC#.exe
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\bin\Debug\net9.0\EstacioButaC#.deps.json
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\bin\Debug\net9.0\EstacioButaC#.runtimeconfig.json
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\bin\Debug\net9.0\EstacioButaC#.dll
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\bin\Debug\net9.0\EstacioButaC#.pdb
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.AssemblyInfoInputs.cache
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.AssemblyInfo.cs
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.csproj.CoreCompileInputs.cache
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.dll
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\refint\EstacioButaC#.dll
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.pdb
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\EstacioButaC#.genruntimeconfig.cache
+C:\desenvolvimento-pessoal\backend\EstacioButaC#\EstacioButaC#\obj\Debug\net9.0\ref\EstacioButaC#.dll
